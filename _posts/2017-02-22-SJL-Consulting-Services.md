@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "SJL Consulting Services"
 date: 2017-02-22
 categories: company
